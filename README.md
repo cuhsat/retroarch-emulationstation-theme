@@ -1,2 +1,2 @@
-# lakka-xmb-theme
-A nice XMB theme for Lakka.
+# Lakka XMB Theme
+A nice XMB theme for [Lakka](https://www.lakka.tv).
