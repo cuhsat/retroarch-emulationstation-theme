@@ -1,4 +1,4 @@
-# Lakka XMB Theme
+# Lakka Theme
 
 A nice custom theme for [Lakka](https://www.lakka.tv).
 
