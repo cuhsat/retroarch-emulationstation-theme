@@ -1,2 +1,2 @@
 mount -o remount,rw /flash
-cp -v oemsplash.png /flash/
+cp -v $1 /flash/
