@@ -1,12 +1,9 @@
-# Lakka Theme
+RetroArch EmulationStation Theme
+================================
+A [EmulationStation](http://emulationstation.org) like theme for [RetroArch](http://www.libretro.com)/[Lakka](http://lakka.tv).
 
-A nice custom theme for [Lakka](https://www.lakka.tv).
-
-To install a splash screen please use the `install.sh` script in `assets/splash/`:
-
+To change the bootsplash:
 ```
-$ ./install.sh FILENAME
+mount -o remount,rw /flash
+cp <FILE> /flash/oemsplash.png
 ```
-
---
-Based on [BAXYs NeoActive icons](https://github.com/baxysquare/baxy-retroarch-themes).
