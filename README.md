@@ -1,6 +1,6 @@
 RetroArch EmulationStation Theme
 ================================
-A [EmulationStation](http://emulationstation.org) like theme for [RetroArch](http://www.libretro.com)/[Lakka](http://lakka.tv).
+An [EmulationStation](http://emulationstation.org) like theme for [RetroArch](http://www.libretro.com)/[Lakka](http://lakka.tv).
 
 To change the bootsplash:
 ```
